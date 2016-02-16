@@ -1,0 +1,1 @@
+{"version":3,"sources":["handler/index.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;;;;;;;;;;;;;;;;;QAKJ,IAAI;QAAE,QAAQ","file":"handler/index.js","sourcesContent":["'use strict';\n\nimport page from './page';\nimport markdown from './markdown';\n\nexport { page, markdown };"],"sourceRoot":"/source/"}
