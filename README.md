@@ -1,4 +1,5 @@
-# NAWS - Not Another Web Server
+# NAWS - Not Another Web Server [![Dependency Status](https://gemnasium.com/badges/github.com/bookyacom/naws.svg)](https://gemnasium.com/github.com/bookyacom/naws)
+
 
 It actually is another web server. Oh well.
 
